@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+/* 
+    A website detailing the reasearch on social networking
+    Author: Brenden Riley
+    Date: 9.28.18
+*/
+
+body>h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+nav {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+a#leftside {
+    margin-left: 5%;
+    padding: 5px 9%;
+}
+
+a#center {
+    padding: 5px 18%;
+}
+
+a#rightside {
+    margin-right: 5%;
+    padding: 5px 9%;
+}
+
+aside#left {
+    padding-bottom: 100%;
+    float: left;
+    border-top: 1px solid black;
+    padding-left: 1%;
+    padding-right: 1%;
+    width: 15%;
+}
+
+aside#right {
+    padding-bottom: 100%;
+    float: right;
+    border-top: 1px solid black;
+    padding-left: 1%;
+    padding-right: 1%;
+
+    width: 15%;
+}
