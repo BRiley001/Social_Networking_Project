@@ -35,3 +35,7 @@ html {
 aside {
     background-color: rgb(118, 118, 133)
 }
+
+article {
+    background-color: white;
+}
